@@ -1,0 +1,4 @@
+ediapipe,
+opencv-python,
+numpy,
+requests
