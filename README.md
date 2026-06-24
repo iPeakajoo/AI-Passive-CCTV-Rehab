@@ -19,8 +19,8 @@
 ### 📱 Mobile App UI Showcase
 <p align="center">
   <img src="mobile1.jpg" width="18%" />
-  <img src="ui_page2.jpg" width="18%" />
-  <img src="ui_page3.jpg" width="18%" />
-  <img src="ui_page4.jpg" width="18%" />
-  <img src="ui_page5.jpg" width="18%" />
+  <img src="mobile2.jpg" width="18%" />
+  <img src="mobile3.jpg" width="18%" />
+  <img src="mobile4.jpg" width="18%" />
+  <img src="mobile5.jpg" width="18%" />
 </p>
