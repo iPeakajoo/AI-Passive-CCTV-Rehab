@@ -12,3 +12,6 @@
 ## 🎬 วิดีโอนำเสนอผลงาน (Pitching & Demo Video)
 👉 [คลิกที่นี่เพื่อรับชมวิดีโอนำเสนอและสาธิตระบบคัดกรอง AI (Google Drive)] (https://drive.google.com/file/d/1AGh87vcJC6CQGJu0K3MM0gAGwRhLUqv0/view?usp=sharing)
 *(เนื่องจากปริมาณการจราจรทางเครือข่ายช่วงเช้าหนาแน่น ทีมงานจึงขอนำเสนอวิดีโอสาธิตระบบผ่านช่องทางหลักบน GitHub นี้เพื่อให้คณะกรรมการสามารถรับชมระบบตรวจสอบได้ทันทีครับ)*
+
+## 🎬 presentation (Pitching )
+👉 [คลิกที่นี่เพื่อรับชม preseatation นำเสนอ] (https://canva.link/9e16fm2du9ajilo)
